@@ -22,7 +22,7 @@ requirements:
         - numpy
 
 build:
-    number: 2
+    number: 3
 
 about:
     home: https://github.com/neurodroid/stimfit
